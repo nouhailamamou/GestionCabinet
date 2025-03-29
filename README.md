@@ -15,7 +15,7 @@ Prérequis
 •	MySQL installé et configuré
 Étapes d'installation
 1.	Cloner le projet :
-2.	git clone https://github.com/votre-repo/GestionConsultationApp.git
+2.	git clone https://github.com/GestionCabinet/GestionConsultationApp.git
 3.	cd GestionConsultationApp
 4.	Configurer la base de données :
 o	Modifier le fichier application.properties avec les informations de connexion à la base de données.
